@@ -1,0 +1,22 @@
+.product-card {
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    padding: 15px;
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+    max-width: 250px;
+}
+.product-card img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+.product-card h2 {
+    font-family: Verdana, sans-serif;
+    margin: 10px 0;
+}
+.product-card .price {
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}

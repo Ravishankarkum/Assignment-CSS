@@ -1,0 +1,12 @@
+.comments .comment p {
+    font-style: italic;
+}
+.reply {
+    background-color: lightblue;
+    padding: 5px;
+    margin: 5px 0;
+}
+.reply p {
+    font-weight: bold;
+    margin-left: 30px;
+}
